@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Task2.1</string>
+        <string-array name="units">
+            <item>inches</item>
+            <item>feet</item>
+            <item>yards</item>
+            <item>miles</item>
+            <item>Celsius</item>
+            <item>Fahrenheit</item>
+            <item>Kelvin</item>
+            <item>kilograms</item>
+            <item>tons</item>
+            <item>ounces</item>
+            <item>pounds</item>
+        </string-array>
+    <string name="value_edit_text">Enter value to convert</string>
+</resources>
